@@ -49,3 +49,35 @@ body{
     background-color: whitesmoke;
     padding: 7px;
 }
+.navigation{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: white;
+    position: fixed;
+    width: 100vw;
+    margin-top: 0%;
+}
+.lists{
+    display: flex;
+}
+.one{
+    margin-right: 80px;
+}
+.two{
+    text-decoration: none; 
+}
+.imgs{
+    width: 80px;
+    height: 80px;
+}
+.space{
+    margin-top: 100px;
+}
+body{
+    margin-top: 0;
+    margin: 0;
+    border: 1px solid #9CCDDB ;
+}
+
+
